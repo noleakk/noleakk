@@ -1,4 +1,6 @@
-<img align="center" src="images/header.gif">
+<div align="center">
+	<img src="images/header.gif">
+</div>
 <h1>Hi there 👋</h1>
 
 <p>
