@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-`Discord: _noleakk`
+Reach me
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1062631253918097470)
 
 <div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
