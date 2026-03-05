@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
-Reach me
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1062631253918097470)
+<p>
+  Developer interested in web development and game development.
+</p>
+
+<h2>Reach Me</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/1062631253918097470">
+        <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+      </a>
+    </td>
+    <td><code>@_qtbit</code></td>
+  </tr>
+</table>
+<h2>Stack</h2>
 
 <div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
@@ -15,18 +30,3 @@ Reach me
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
 </div>
-
-<!--
-**noleakk/noleakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
